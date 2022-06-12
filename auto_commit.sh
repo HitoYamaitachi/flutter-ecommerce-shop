@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the start date
-start_date="2021-05-14"
+start_date="2022-03-12"
 # Initialize the current date to the start date
 current_date=$(date -d "$start_date" +%Y-%m-%d)
 
